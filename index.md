@@ -1,8 +1,6 @@
-## Welcome to the FlockAI project website!
+# Welcome to the FlockAI project website!
 
-You can use the [editor on GitHub](https://github.com/unic-ailab/flockai/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The aim of the FlockAI project is to deliver a framework capable of enabling Machine Learning and its applications to drone technology for handling time-critical missions (e.g., search and rescue missions). Specifically, FlockAI will advance the current research plain by developing innovative AI-enabled self-adaptive algorithms to ease energy consumption and improve data delivery timeliness in drone swarms. To achieve these goals, the FlockAI project will explore the use of various power-efficient machine learning models for dynamically adjusting, in place, the data sensing and routing of data over drone swarms while maintaining mission requirements. The methods delivered by the project will be placed in a modular and reusable framework for drone swarm operation.
 
 ### Markdown
 
