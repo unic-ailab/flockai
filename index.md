@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the FlockAI project website!
 
 You can use the [editor on GitHub](https://github.com/unic-ailab/flockai/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
