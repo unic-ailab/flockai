@@ -15,18 +15,27 @@ The FlockAI research team is currently working on designing and developing a fra
 
 Stay tuned for the first release of our benchmarking suite that will run on top of the open and popular webots emulator!
 
+![flockai-webots-1](https://github.com/unic-ailab/flockai/raw/gh-pages/images/flockai-webots-1.png)
+![flockai-webots-2](https://github.com/unic-ailab/flockai/raw/gh-pages/images/flockai-webots-2.png)
+![flockai-webots-3](https://github.com/unic-ailab/flockai/blob/gh-pages/images/flockai-webots-3.png)
 
+<p align="center">
+  <img src="https://github.com/unic-ailab/flockai/raw/gh-pages/images/flockai-webots-1.png" width="40%" title="flockai-webots-1">
+  <img src="https://github.com/unic-ailab/flockai/raw/gh-pages/images/flockai-webots-2.png" width="50%" title="flockai-webots-2">
+    <img src="https://github.com/unic-ailab/flockai/blob/gh-pages/images/flockai-webots-3.png" width="60%" title="flockai-webots-3">
+
+</p>
 
 ## The Team
 
-### Principle Investigator
+#### Principle Investigator
 Dr. [Demetris Trihinas](https://dtrihinas.info/) (Geo-Distributed Data Processing)
 
-### Researchers
+#### Researchers
 Dr. [Michalis Agathocleous](https://www.linkedin.com/in/michalis-agathocleous-phd-779aa759) (Deep Learning)
 Mr. Karlen Avogian (Cloud DevOps)
 
-### Consulting Research Team
+#### Consulting Research Team
 Prof. [Athena Stassopoulou](https://www.unic.ac.cy/stassopoulou-athena/) (Swarm Intelligence)
 Dr. [Ioannis Katakis](http://www.katakis.eu/) (Data Mining/Machine Learning)
 Dr. [Ioannis Kyriakides](https://sites.google.com/view/ikyriakides/home) (Signal Processing)
@@ -36,6 +45,6 @@ Dr. [Ioannis Kyriakides](https://sites.google.com/view/ikyriakides/home) (Signal
 
 For more information about the project and our current work, please contact the project principle investigator, Dr. Demetris Trihinas at trihinas.d {at} unic.ac.cy
 
-### Acknowledgement
+#### Acknowledgement
 
 This project is run by the [Artificial Intelligence Laboratory](https://ailab.unic.ac.cy/) (ailab) and is co-funded by the [University of Nicosia](https://www.unic.ac.cy/) Seed Grant Scheme (2020-2022).
