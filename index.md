@@ -10,7 +10,32 @@ The aim of the FlockAI project is to deliver a framework capable of enabling Mac
 
 - **Decentralized data routing for drone swarms**. Design a novel routing mechanism that can be integrated with the communication interfaces of drones to support multi-hop routing over geo-distributed drone swarms.
 
+## Current Work
+The FlockAI research team is currently working on designing and developing a framework that will enable researchers to rapidly test advanced AI models for drone technology. Users of our benchmarking framework will be able to rapidly provision -reproducable- emulated testbeds for AI experimentation without the need of knowing complex internals of drone technology or emulation frameworks. 
 
-## Support or Contact
+Stay tuned for the first release of our benchmarking suite that will run on top of the open and popular webots emulator!
 
-For more information about the project and our current work, please contact Dr. Demetris Trihinas at trihinas.d {at} unic.ac.cy
+
+
+## The Team
+
+### Principle Investigator
+Dr. [Demetris Trihinas](https://dtrihinas.info/) (Geo-Distributed Data Processing)
+
+### Researchers
+Dr. [Michalis Agathocleous](https://www.linkedin.com/in/michalis-agathocleous-phd-779aa759) (Deep Learning)
+Mr. Karlen Avogian (Cloud DevOps)
+
+### Consulting Research Team
+Prof. [Athena Stassopoulou](https://www.unic.ac.cy/stassopoulou-athena/) (Swarm Intelligence)
+Dr. [Ioannis Katakis](http://www.katakis.eu/) (Data Mining/Machine Learning)
+Dr. [Ioannis Kyriakides](https://sites.google.com/view/ikyriakides/home) (Signal Processing)
+
+
+## Contact
+
+For more information about the project and our current work, please contact the project principle investigator, Dr. Demetris Trihinas at trihinas.d {at} unic.ac.cy
+
+### Acknowledgement
+
+This project is run by the [Artificial Intelligence Laboratory](https://ailab.unic.ac.cy/) (ailab) and is co-funded by the [University of Nicosia](https://www.unic.ac.cy/) Seed Grant Scheme (2020-2022).
