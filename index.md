@@ -17,13 +17,8 @@ Stay tuned for the first release of our benchmarking suite that will run on top 
 
 ![flockai-webots-1](https://github.com/unic-ailab/flockai/raw/gh-pages/images/flockai-webots-1.png)
 ![flockai-webots-2](https://github.com/unic-ailab/flockai/raw/gh-pages/images/flockai-webots-2.png)
-![flockai-webots-3](https://github.com/unic-ailab/flockai/blob/gh-pages/images/flockai-webots-3.png)
+![flockai-webots-3](https://github.com/unic-ailab/flockai/raw/gh-pages/images/flockai-webots-3.png)
 
-<p align="center">
-  <img src="https://github.com/unic-ailab/flockai/raw/gh-pages/images/flockai-webots-1.png" width height="50%" title="flockai-webots-1">
-  <img src="https://github.com/unic-ailab/flockai/raw/gh-pages/images/flockai-webots-2.png" width height="50%" title="flockai-webots-2">
-  <img src="https://github.com/unic-ailab/flockai/raw/gh-pages/images/flockai-webots-3.png" width height="50%" title="flockai-webots-3">
-</p>
 
 ## The Team
 
