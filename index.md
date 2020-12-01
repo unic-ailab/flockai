@@ -1,5 +1,3 @@
-![flockai-logo](https://github.com/unic-ailab/flockai/raw/gh-pages/images/flockai_logo.png)
-
 # Welcome to the FlockAI project website!
 
 The aim of the FlockAI project is to deliver a framework capable of enabling Machine Learning and its applications to drone technology for handling time-critical missions (e.g., search and rescue missions). Specifically, FlockAI will advance the current research plain by developing innovative AI-enabled self-adaptive algorithms to ease energy consumption and improve data delivery timeliness in drone swarms. To achieve these goals, the FlockAI project will explore the use of various power-efficient machine learning models for dynamically adjusting, in place, the data sensing and routing of data over drone swarms while maintaining mission requirements. The methods delivered by the project will be placed in a modular and reusable framework for drone swarm operation.
