@@ -19,6 +19,9 @@ Stay tuned for the first release of our benchmarking suite that will run on top 
 ![flockai-webots-2](https://github.com/unic-ailab/flockai/raw/gh-pages/images/flockai-webots-2.png)
 ![flockai-webots-3](https://github.com/unic-ailab/flockai/raw/gh-pages/images/flockai-webots-3.png)
 
+## Video of the Beta Release of the FlockAI testing suite for the Webots Simulator!
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/13CFfKJuKdI/0.jpg)](https://www.youtube.com/watch?v=13CFfKJuKdI "FlockAI: A Testing Suite for ML-Driven Drone Applications")
+
 
 ## The Team
 
