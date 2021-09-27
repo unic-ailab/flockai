@@ -37,6 +37,10 @@ Prof. [Athena Stassopoulou](https://www.unic.ac.cy/stassopoulou-athena/) (Swarm 
 Dr. [Ioannis Katakis](http://www.katakis.eu/) (Data Mining/Machine Learning)
 Dr. [Ioannis Kyriakides](https://sites.google.com/view/ikyriakides/home) (Signal Processing)
 
+## Publications
+- **Composable Energy Modeling for ML-Driven Drone Applications**. Demetris Trihinas, Michalis Agathocleous, Karlen Avogian. TDIS at 9th IEEE International Conference on
+Cloud Engineering (IC2E 2021), Oct, 2021.
+
 
 ## Contact
 
