@@ -15,9 +15,15 @@ The FlockAI research team is currently working on designing and developing a fra
 
 Stay tuned for the first release of our benchmarking suite that will run on top of the open and popular webots emulator!
 
-![flockai-webots-1](https://github.com/unic-ailab/flockai/raw/gh-pages/images/flockai-webots-1.png)
-![flockai-webots-2](https://github.com/unic-ailab/flockai/raw/gh-pages/images/flockai-webots-2.png)
-![flockai-webots-3](https://github.com/unic-ailab/flockai/raw/gh-pages/images/flockai-webots-3.png)
+![flockai-webots-teaser](https://github.com/unic-ailab/flockai/raw/gh-pages/images/flockai-teaser.png)
+
+### Key Features
+- Python SDK to design drone testbeds with pre-built drone templates
+- Deploy ML models and configure on-board or remote inference
+- Define and test "what-if" scenarios
+- Monitor system utilization, network overhead and energy consumption
+- Export experiment data in json, csv, xml and pandas
+
 
 ## Video of the Beta Release of the FlockAI testing suite for the Webots Simulator!
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/13CFfKJuKdI/0.jpg)](https://www.youtube.com/watch?v=13CFfKJuKdI "FlockAI: A Testing Suite for ML-Driven Drone Applications")
@@ -38,14 +44,12 @@ Dr. [Ioannis Katakis](http://www.katakis.eu/) (Data Mining/Machine Learning)
 Dr. [Ioannis Kyriakides](https://sites.google.com/view/ikyriakides/home) (Signal Processing)
 
 ## Publications
-- **Composable Energy Modeling for ML-Driven Drone Applications**. Demetris Trihinas, Michalis Agathocleous, Karlen Avogian. TDIS at 9th IEEE International Conference on
+- **FlockAI: A Testing Suite for ML-Driven Drone Applications**. Demetris Trihinas, Michalis Agathocleous, Karlen Avogian and Ioannis Katakis. Future Internet 2021, 13, 317. https://doi.org/10.3390/fi13120317
+- **Composable Energy Modeling for ML-Driven Drone Applications**. Demetris Trihinas, Michalis Agathocleous, Karlen Avogian. 9th IEEE International Conference on
 Cloud Engineering (IC2E 2021), Oct, 2021.
 
-
 ## Contact
-
 For more information about the project and our current work, please contact the project principle investigator, Dr. Demetris Trihinas at trihinas.d {at} unic.ac.cy
 
 #### Acknowledgement
-
 This project is run by the [Artificial Intelligence Laboratory](https://ailab.unic.ac.cy/) (ailab) and is co-funded by the [University of Nicosia](https://www.unic.ac.cy/) Seed Grant Scheme (2020-2022).
