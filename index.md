@@ -44,9 +44,10 @@ Dr. [Ioannis Katakis](http://www.katakis.eu/) (Data Mining/Machine Learning)
 Dr. [Ioannis Kyriakides](https://sites.google.com/view/ikyriakides/home) (Signal Processing)
 
 ## Publications
+- **Towards Energy Consumption and Carbon Footprint Testing for AI-driven IoT Services**. Demetris Trihinas, Lauritz Thamsen, Jossekin Beilharz and Moysis Symeonides. In 10th IEEE International Conference on Cloud Engineering (IC2E 2022), Sept, 2022.
+- **FlockAI - A Framework for Rapidly Testing ML-Driven Drone Applications**. Demetris Trihinas, Michalis Agathocleous and Karlen Avogian. In 2022 IEEE 42nd International Conference on Distributed Computing Systems (ICDCS), July 2022.
 - **FlockAI: A Testing Suite for ML-Driven Drone Applications**. Demetris Trihinas, Michalis Agathocleous, Karlen Avogian and Ioannis Katakis. Future Internet 2021, 13, 317. https://doi.org/10.3390/fi13120317
-- **Composable Energy Modeling for ML-Driven Drone Applications**. Demetris Trihinas, Michalis Agathocleous, Karlen Avogian. 9th IEEE International Conference on
-Cloud Engineering (IC2E 2021), Oct, 2021.
+- **Composable Energy Modeling for ML-Driven Drone Applications**. Demetris Trihinas, Michalis Agathocleous and Karlen Avogian. In 9th IEEE International Conference on Cloud Engineering (IC2E 2021), Oct, 2021.
 
 ## Contact
 For more information about the project and our current work, please contact the project principle investigator, Dr. Demetris Trihinas at trihinas.d {at} unic.ac.cy
